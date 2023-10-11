@@ -108,7 +108,7 @@ plt.show()
 ```
 
 ## OUTPUT
-![image](https://github.com/HariniBaskar/convolutional-denoising-autoencoder/assets/93427253/02768c8c-8546-4aec-ac80-15bbf2ed1b0e)
+![image](https://github.com/HariniBaskar/convolutional-denoising-autoencoder/assets/93427253/f1fb2c93-331c-49dc-beba-cf728cc92cbc)
 
 ### Original vs Noisy Vs Reconstructed Image
 ![image](https://github.com/HariniBaskar/convolutional-denoising-autoencoder/assets/93427253/30a12d25-756d-4bc8-b198-2509985206f4)
